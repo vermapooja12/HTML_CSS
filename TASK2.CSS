@@ -1,0 +1,31 @@
+.card-container1{
+    height: 40vh;
+    width: 100vw;
+    background-color:#fb4e71;
+    border-radius: 8px;
+    padding: 20px;
+
+
+}
+.bg-container{
+    height:25vh;
+    width:200vw;
+    background-color:skyblue;
+    background-size: cover;
+}
+.card{
+    height: 20vh;
+    width: 100vw;
+    background-color:olivedrab;
+}
+
+    
+    
+
+
+
+
+
+
+
+    

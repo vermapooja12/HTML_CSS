@@ -1,0 +1,20 @@
+.POOJA{
+    background-image:url("https://img.freepik.com/free-photo/happy-woman-talking-line-video-conference-with-laptop-sitting-bench-autumn-park_231208-173.jpg?w=996&t=st=1705918926~exp=1705919526~hmac=130ae35d8ab832f01c2670b4bf9a3431e76c12f9d6a5bc45d4196b2bc3853364");
+    background-size:cover;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction:row;
+    justify-content: start;
+    align-items:start;
+
+}
+.card1{
+    background-color: aqua;
+    text-align: center;
+    padding: 20px;
+}
+
+
+
+

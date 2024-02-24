@@ -1,0 +1,36 @@
+.card-container{
+  height: 60vh;
+  width: 60vw;
+  display: flex;
+  justify-content: center;
+
+}
+.carousel{
+  height: 5px;
+  margin-left: 8vh;
+}
+.carousel-control-next, .carousel-control-prev{
+  margin-top: 40vh;
+}
+.carousel-item{
+  height: 60vh;
+  width: 60vw;
+  margin-left: 60vh;
+}
+.card-container2{
+  gap: 4vh;
+  /* background-color: aqua; */
+  margin-top: 4vh;
+}
+.img{
+  height: 30vh;
+  width: 20vw;
+}
+.card-container3{
+  margin-top: 3vh;
+  gap: 10vh;
+  margin-bottom: 5vh;
+}
+.video{
+  gap: 10vh;
+}

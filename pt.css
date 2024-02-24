@@ -1,0 +1,48 @@
+.soft{
+    height: 70px;
+    width: 90px;
+
+}
+.hhh{
+    background-image:url("https://img.freepik.com/free-photo/orange-cocktail-topped-with-lime-slice_140725-1826.jpg?w=996&t=st=1707907620~exp=1707908220~hmac=067fb1f0b72c92bd6b9cfe7b6b49e9596a676157da6f85b866e76bf226594709");
+    height:70vh;
+    width: 100vw;
+    background-size:cover;
+    color:white;
+    text-align: center;
+    margin: 10px;
+    background-color: transparent;
+}
+.container{
+    gap: 1vh;
+}
+.ttt{
+    text-align: center;
+}
+.img{
+    background-color: black;
+    width:500vw;
+}
+.mg{
+    color: white;
+}
+.text{
+    color: white;
+}
+.box{
+    display: flex;
+    flex-direction: row;
+}
+.row-box{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+
+}
+
+
+.bt{
+    background-color: red;
+    color: white;
+}
+    

@@ -1,0 +1,17 @@
+.poo{
+ background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png");
+ height: 100vh;
+ /* width: 100vw; */
+background-size:cover;
+color: white;
+text-align: center;
+
+
+}
+.underline{
+    text-decoration: underline
+}
+.bg{
+    padding: 10px;
+    color: brown;
+}

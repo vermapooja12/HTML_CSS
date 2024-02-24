@@ -1,0 +1,29 @@
+.pooja{
+background-image:url(https://img.freepik.com/free-photo/wooden-bridge-koh-nangyuan-island-surat-thani-thailand_335224-1082.jpg?w=996&t=st=1705080420~exp=1705081020~hmac=5d8c108ac03c959574aed1c90067cdbb264190964ec8f713642b3a3b3ff9f00f);
+height:100vh;
+background-size:cover; 
+padding:20px;
+color:#ffffff;
+font-weight: 400px;
+font-family: 'Courier New', Courier, monospace;
+color: black;
+}
+
+.card-container{
+    margin-left: 25%;
+    background-color: #ffffff;
+    height: 90vh;
+    width: 100vh;
+    border-radius: 20px;
+}
+.carousel{
+    height: 40vh;
+    width: 100vh;
+}
+.carousel-item{
+height:40vh;
+width:100vh;
+}
+.text{
+    color: black;
+}
